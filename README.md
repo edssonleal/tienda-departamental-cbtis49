@@ -8,7 +8,5 @@ Aplicación web funcional para el control de inventarios distribuidos en 5 almac
 
 Tecnologías utilizadas:
 HTML5 / CSS3: Maquetación y diseño responsivo.
-
-Visual Studio: Lógica de inventario y procesamiento de transacciones.
-
+JavaScript: Lógica de inventario y procesamiento de transacciones.
 Git/GitHub: Control de versiones y despliegue.
